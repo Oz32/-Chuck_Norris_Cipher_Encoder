@@ -1,4 +1,4 @@
-# -Chuck_Norris_Cipher_Encoder
+# Chuck_Norris_Cipher_Encoder
 Encryption-decryption program
 Ask users what they want to do, encode a string, decode a string or quit the program with
 If user inputs encode as the desired operation, the program prints Input string: to the output, reads a line and outputs two lines — Encoded string: followed by the encoded string;
